@@ -1,23 +1,16 @@
 # JavaWeb_course
 
 #### 介绍
+
 Java技术栈之Javaweb学习
 
-#### 软件架构
-软件架构说明
+#### 概述
 
+用Java技术来解决相关web互联网领域的技术栈，Internet上供外界访问的Web资源分为：静态web资源（如html 页面）：指web页面中供人们浏览的数据始终是不变。动态web资源：指web页面中供人们浏览的数据是由程序产生的，不同时间点访问web页面看到的内容各不相同。
 
-#### 安装教程
+#### 思维导图
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![image](https://github.com/CONTINUE12/JavaWeb_course/blob/master/8.png)
 
 #### 参与贡献
 
@@ -25,7 +18,6 @@ Java技术栈之Javaweb学习
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
 
 #### 特技
 
