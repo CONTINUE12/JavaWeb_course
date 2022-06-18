@@ -25,3 +25,5 @@ Java技术栈之Javaweb学习
 5.Java技术栈之Maven学习：https://github.com/CONTINUE12/Maven_course
 
 6.Java技术栈之Spring5学习: https://github.com/CONTINUE12/Spring5_course
+
+7.Java技术栈之Mybatis学习: https://github.com/CONTINUE12/Mybatis_course
