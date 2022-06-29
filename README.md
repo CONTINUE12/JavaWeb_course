@@ -47,3 +47,5 @@ Java技术栈之Javaweb学习
 16.Java技术栈之Linux学习：https://github.com/CONTINUE12/Linux_course
 
 17.Java技术栈之JVM学习：https://github.com/CONTINUE12/JVM_course
+
+18.Java技术栈之Redis学习：https://github.com/CONTINUE12/Redis_course
